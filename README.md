@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 thama@NothingToMigratee Windows64 ~/Documents (developer)
  $ git add .
 thama@NothingToMigratee Windows64 ~/Documents (developer)
- $ git commit "I want to be a Backend Engineer and AI Engineer"
+ $ git commit -m "I want to be a Backend Engineer and AI Engineer"
 thama@NothingToMigratee Windows64 ~/Documents (developer)
  $ git push --force
 hama@NothingToMigratee Windows64 ~/Documents (developer)
