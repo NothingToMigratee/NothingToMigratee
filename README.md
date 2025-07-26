@@ -1,4 +1,4 @@
-## Hi there 👋
+# Hi there 👋
 
 <!--
 **NothingToMigratee/NothingToMigratee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🦾 **I’m currently learning Golang,Kotlin,AWS**
+- 🧑 **Fun fact : I`m human**
+
+```bash
+thama@NothingToMigratee Windows64 ~/Documents (developer)
+ $ git init - I want to be a Backend Engineer and AI Engineer
+```
+### Tech Stack 
+##### *coming soon* 
