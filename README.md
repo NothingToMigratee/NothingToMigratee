@@ -19,19 +19,19 @@ Here are some ideas to get you started:
 
 ```bash
 thama@NothingToMigratee Windows64 ~/Documents (developer)
- $ git add .
+$ git add .
 thama@NothingToMigratee Windows64 ~/Documents (developer)
- $ git commit -m "I want to be a Backend Engineer and AI Engineer"
+$ git commit -m "I want to be a Backend Engineer and AI Engineer"
 [developer commit] 
  1000 file changed, 0 deletions(-)
 thama@NothingToMigratee Windows64 ~/Documents (developer)
- $ git push --force
+$ git push --force
 Enumerating objects: 1000, done.
 Counting objects: 100% (1000/1000), done.
 Compressing objects: 100% (2/2), done.
 Writing objects: 100% (3/3), 2250 bytes | 2250.00 KiB/s, done.
 thama@NothingToMigratee Windows64 ~/Documents (developer)
- $ clear
+$ clear
 ```
 ### Tech Stack 
 ##### *coming soon* 
