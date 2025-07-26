@@ -26,8 +26,6 @@ thama@NothingToMigratee Windows64 ~/Documents (developer)
  $ git push --force
 thama@NothingToMigratee Windows64 ~/Documents (developer)
  $ clear
-thama@NothingToMigratee Windows64 ~/Documents (developer)
- $ exit
 ```
 ### Tech Stack 
 ##### *coming soon* 
