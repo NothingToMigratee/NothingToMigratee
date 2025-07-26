@@ -24,8 +24,10 @@ thama@NothingToMigratee Windows64 ~/Documents (developer)
  $ git commit -m "I want to be a Backend Engineer and AI Engineer"
 thama@NothingToMigratee Windows64 ~/Documents (developer)
  $ git push --force
-hama@NothingToMigratee Windows64 ~/Documents (developer)
+thama@NothingToMigratee Windows64 ~/Documents (developer)
  $ clear
+thama@NothingToMigratee Windows64 ~/Documents (developer)
+ $ exit
 ```
 ### Tech Stack 
 ##### *coming soon* 
