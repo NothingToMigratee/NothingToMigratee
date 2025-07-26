@@ -21,7 +21,8 @@ Here are some ideas to get you started:
 thama@NothingToMigratee Windows64 ~/Documents (developer)
  $ git init - I want to be a Backend Engineer and AI Engineer
 thama@NothingToMigratee Windows64 ~/Documents (developer)
- $ git push
+ $ git push --force
 ```
 ### Tech Stack 
 ##### *coming soon* 
+
