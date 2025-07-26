@@ -23,7 +23,7 @@ $ git add .
 thama@NothingToMigratee Windows64 ~/Documents (developer)
 $ git commit -m "I want to be a Backend Engineer and AI Engineer"
 [developer commit] 
- 1000 file changed, 0 deletions(-)
+1000 file changed, 0 deletions(-)
 thama@NothingToMigratee Windows64 ~/Documents (developer)
 $ git push --force
 Enumerating objects: 1000, done.
@@ -34,5 +34,5 @@ thama@NothingToMigratee Windows64 ~/Documents (developer)
 $ clear
 ```
 ### Tech Stack 
-##### *coming soon* 
+#### *coming soon* 
 
