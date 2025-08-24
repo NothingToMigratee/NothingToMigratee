@@ -14,14 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🦾 **I’m currently learning Golang,Kotlin,AWS**
+- 🦾 **I’m currently learning Golang,Kotlin,MEVN**
 - 🧑 **Fun fact : I`m human**
 
 ```bash
 thama@NothingToMigratee Windows64 ~/Documents (developer)
 $ git add .
 thama@NothingToMigratee Windows64 ~/Documents (developer)
-$ git commit -m "I want to be a Backend Engineer and AI Engineer"
+$ git commit -m "I want to be a Software engineer"
 [developer commit] 
 1000 file changed, 0 deletions(-)
 thama@NothingToMigratee Windows64 ~/Documents (developer)
